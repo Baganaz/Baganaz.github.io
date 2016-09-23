@@ -1,0 +1,42 @@
+body {
+	background-color: #2eb8b8;
+}
+
+h1 {
+	padding-bottom: 20px;
+}
+
+div span {
+	display: block;
+	padding-right: 9px;
+}
+
+div img#dumbbell {
+	margin-right: 7px;
+}
+
+.glyphicon {
+	font-size: 22px;
+}
+
+.panel-body-custom {
+	position:relative;
+	display:block;
+	padding:10px 15px;
+	margin-bottom:-1px;
+	background-color:#fff;
+	border:1px solid #ddd;
+}
+
+.panel-body-custom a {
+	text-decoration: none;
+	color: black;
+}
+
+.panel-body-custom:hover {
+	background-color: #e6e6e6;
+}
+
+.panel-body-custom.list-expand {
+	visibility: collapse;
+}
