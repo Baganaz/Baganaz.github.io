@@ -46,15 +46,15 @@
 				<a data-toggle="collapse" href="#collapse2">Former Intern at the 407ETR (IT)</a>
 				</div>
 			<div id="collapse2" class="panel-collapse collapse">
-				<div class="panel-collapse collapse panel-body-custom">Computer Science blah</div>
+				<div class="panel-collapse collapse panel-body-custom">blah blah</div>
 			</div>
 
 			<div class="panel-body panel-body-custom">
 				<img id="dumbbell" src="dumbbell.png" width="24px" height="24px">
-				<a data-toggle="collapse" href="#collapse3">Fitness and Exercise Enthusiast
+				<a data-toggle="collapse" href="#collapse3">Fitness and Exercise Enthusiast</a>
 				</div>
 			<div id="collapse3" class="panel-collapse collapse">
-				<div class="panel-collapse collapse panel-body-custom">Computer Science blah</div>
+				<div class="panel-collapse collapse panel-body-custom">blahblahblah</div>
 			</div>
 
 		</div>
