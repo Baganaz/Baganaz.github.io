@@ -1,9 +1,10 @@
 body {
-	background-color: #2eb8b8;
+	background-color: #e9ebee;
 }
 
 h1 {
 	padding-bottom: 20px;
+	font-size: 48px;
 }
 
 div span {
@@ -13,6 +14,27 @@ div span {
 
 div img#dumbbell {
 	margin-right: 7px;
+}
+
+div ul li {
+	margin: 0 0 0 0;
+}
+
+.exLink:hover {
+	color: blue;
+	text-decoration: underline;
+}
+
+.navbar {
+	background-color: #e68a00;
+}
+
+.navbar a {
+	color: white;
+}
+
+.navbar a:hover {
+	color: black;
 }
 
 .glyphicon {
@@ -26,9 +48,10 @@ div img#dumbbell {
 	margin-bottom:-1px;
 	background-color:#fff;
 	border:1px solid #ddd;
+	font-size: 20px;
 }
 
-.panel-body-custom a {
+.panel a {
 	text-decoration: none;
 	color: black;
 }
@@ -39,4 +62,14 @@ div img#dumbbell {
 
 .panel-body-custom.list-expand {
 	visibility: collapse;
+}
+
+.navbar-brand {
+	font-size: 30px;
+}
+
+.navbar {
+	margin-bottom: 20px;
+	padding: 25px;
+	font-size: 20px;
 }
