@@ -19,6 +19,8 @@
 <!-- Latest compiled JavaScript -->
 <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
+<script type="text/javascript" src="JS.js"></script>
+
 </head>
 
 
@@ -28,11 +30,10 @@
 
   <div class="container-fluid">
     <div class="navbar-header">
-      <a class="navbar-brand" href="#">Samson Chung</a>
+      <a class="navbar-brand" href="/">Samson Chung</a>
     </div>
     <ul class="nav navbar-nav navbar-right">
-      <li class="active"><a href="#">Home</a></li>
-      <li><a href="#">Projects</a></li>
+      <li><a href="projects">Projects</a></li>
       <li><a href="#">Resume</a></li>
     </ul>
   </div>
@@ -93,8 +94,8 @@
 
 	<div class="col-md-4">
 		<div class="panel panel-default">
-			<div class="panel-body panel-body-custom">
-				<span class="glyphicon glyphicon-envelope"></span>
+			<div class="panel-body panel-body-custom" >
+				<span id="email" class="glyphicon glyphicon-envelope"></span>
 				samson.c.chung@gmail.com
 			</div>
 		</div>
