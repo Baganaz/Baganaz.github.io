@@ -1,11 +1,13 @@
 body {
-	background-color: #e9ebee;
+	background-color: #0086b3;
 }
 
+
+
 h1 {
-	padding-bottom: 20px;
-	font-size: 48px;
-}
+	font-size: 44px;
+	color: white;
+}	
 
 div span {
 	display: block;
@@ -25,16 +27,12 @@ div ul li {
 	text-decoration: underline;
 }
 
-.navbar {
-	background-color: #e68a00;
-}
-
-.navbar a {
-	color: black;
-}
-
 .glyphicon {
 	font-size: 22px;
+}
+
+.panel-group {
+	margin-top: 20px;
 }
 
 .panel-body-custom {
@@ -58,14 +56,4 @@ div ul li {
 
 .panel-body-custom.list-expand {
 	visibility: collapse;
-}
-
-.navbar-brand {
-	font-size: 30px;
-}
-
-.navbar {
-	margin-bottom: 20px;
-	padding: 25px;
-	font-size: 20px;
 }
