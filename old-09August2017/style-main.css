@@ -1,0 +1,65 @@
+body {
+	background-color: #0086b3;
+}
+
+h1 {
+	font-size: 44px;
+	color: white;
+}	
+
+h3 {
+	color: #d9d9d9;
+}
+
+h3 a {
+	color: #d9d9d9;
+}
+
+div span {
+	display: block;
+	padding-right: 9px;
+}
+
+div img#dumbbell {
+	margin-right: 7px;
+}
+
+div ul li {
+	margin: 0 0 0 0;
+}
+
+.exLink:hover {
+	color: blue;
+	text-decoration: underline;
+}
+
+.glyphicon {
+	font-size: 22px;
+}
+
+.panel-group {
+	margin-top: 20px;
+}
+
+.panel-body-custom {
+	position:relative;
+	display:block;
+	padding:10px 15px;
+	margin-bottom:-1px;
+	background-color:#fff;
+	border:1px solid #ddd;
+	font-size: 20px;
+}
+
+.panel a {
+	text-decoration: none;
+	color: black;
+}
+
+.panel-body-custom:hover {
+	background-color: #e6e6e6;
+}
+
+.panel-body-custom.list-expand {
+	visibility: collapse;
+}
